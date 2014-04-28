@@ -1,0 +1,12 @@
+name: Basketball
+main: me.therealbuckshot.basketball.Main
+version: 1.0
+description: >
+             Hub Tools Babay
+commands: 
+  addarena:
+   description:
+  addscoreblue:
+   description:
+  addscorered:
+   description:
