@@ -1,4 +1,4 @@
 Basketball
 ==========
 
-Basketball Plugin.
+Basketball Plugin by TheRealBuckshot.
